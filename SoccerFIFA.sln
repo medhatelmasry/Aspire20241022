@@ -1,0 +1,48 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 17.8.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoccerFIFA.AppHost", "SoccerFIFA.AppHost\SoccerFIFA.AppHost.csproj", "{B8991D73-ED4A-454D-82D9-71E05E332037}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoccerFIFA.ServiceDefaults", "SoccerFIFA.ServiceDefaults\SoccerFIFA.ServiceDefaults.csproj", "{435CB962-063C-4020-8196-A3145D5461CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiFIFA", "WebApiFIFA\WebApiFIFA.csproj", "{3D147FC0-D6E0-49C6-AEEE-CF0A9768570F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorFIFA", "BlazorFIFA\BlazorFIFA.csproj", "{C21CB184-F450-408D-90C9-6DFA76B6C1EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFIFA", "LibraryFIFA\LibraryFIFA.csproj", "{2E28ACF5-061C-4335-A2F1-3D01DA596716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8991D73-ED4A-454D-82D9-71E05E332037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8991D73-ED4A-454D-82D9-71E05E332037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8991D73-ED4A-454D-82D9-71E05E332037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8991D73-ED4A-454D-82D9-71E05E332037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435CB962-063C-4020-8196-A3145D5461CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435CB962-063C-4020-8196-A3145D5461CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435CB962-063C-4020-8196-A3145D5461CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435CB962-063C-4020-8196-A3145D5461CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D147FC0-D6E0-49C6-AEEE-CF0A9768570F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D147FC0-D6E0-49C6-AEEE-CF0A9768570F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D147FC0-D6E0-49C6-AEEE-CF0A9768570F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D147FC0-D6E0-49C6-AEEE-CF0A9768570F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21CB184-F450-408D-90C9-6DFA76B6C1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21CB184-F450-408D-90C9-6DFA76B6C1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21CB184-F450-408D-90C9-6DFA76B6C1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21CB184-F450-408D-90C9-6DFA76B6C1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E28ACF5-061C-4335-A2F1-3D01DA596716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E28ACF5-061C-4335-A2F1-3D01DA596716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E28ACF5-061C-4335-A2F1-3D01DA596716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E28ACF5-061C-4335-A2F1-3D01DA596716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33F62D19-D181-48DD-9309-48E608482C87}
+	EndGlobalSection
+EndGlobal
